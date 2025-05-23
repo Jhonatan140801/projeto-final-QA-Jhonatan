@@ -9,13 +9,13 @@ Curso e semestre: GTI-5NA
 Ao longo desta disciplina de Quality Assurance (QA), tive a oportunidade de expandir minha visão sobre qualidade em desenvolvimento de software. Desde os primeiros conceitos teóricos até a prática com ferramentas reais, consegui compreender como os testes se tornam parte essencial de qualquer projeto bem-sucedido. Aprendi não apenas a escrever testes automatizados, mas a enxergar a qualidade como um valor que deve ser cultivado por toda a equipe.
 
 2. O que é Quality Assurance (QA)?
-Quality Assurance, ou Garantia da Qualidade, é como um escudo que protege o usuário final de erros e experiências ruins. É o processo que garante que tudo funcione como deveria — não só em termos técnicos, mas também pensando na usabilidade, segurança e desempenho do software. Enxerguei o QA como uma etapa que economiza tempo, reduz custos e aumenta a confiança nos produtos que entregamos.
+É como um escudo que protege o usuário final de erros e experiências ruins. É o processo que garante que tudo funcione como deveria, não só em termos técnicos, mas também pensando na usabilidade, segurança e desempenho do software. Enxerguei o QA como uma etapa que economiza tempo, reduz custos e aumenta a confiança nos produtos que entregamos.
 
 3. Conceitos Aprendidos Durante o Semestre
 Durante o semestre, trabalhei com vários tipos de testes e ferramentas que me mostraram o quão diversa e estratégica é a área de QA:
 
 📌 Qualidade em Software
-Entendi que qualidade não é só ausência de bugs — envolve também performance, segurança, acessibilidade e experiência do usuário.
+Entendi que qualidade não é só ausência de bugs, envolve também performance, segurança, acessibilidade e experiência do usuário.
 
 🧪 Tipos de Testes
 Unitários: testam partes isoladas do código.
@@ -46,15 +46,15 @@ CI/CD (Integração Contínua): entendi como os testes automatizados se integram
 Passei a valorizar a coleta de métricas como cobertura de testes e taxas de falha, que ajudam a identificar pontos de melhoria de forma contínua.
 
 4. Ferramentas e Sites Utilizados
-Reqres.in – para testar chamadas de API REST
+Reqres.in para testar chamadas de API REST
 
-Google Colab – prototipagem online
+Google Colab = prototipagem online
 
-GitHub – controle de versão e colaboração
+GitHub = controle de versão e colaboração
 
-Pytest – framework de testes simples e poderoso
+Pytest = framework de testes simples e poderoso
 
-Unittest (Python) – testes unitários estruturados
+Unittest (Python) = testes unitários estruturados
 
 5. Explicação dos Testes Entregues
    
